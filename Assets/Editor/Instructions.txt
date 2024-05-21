@@ -1,0 +1,9 @@
+1.<indent=20px>Unzip the <b>SFS2X-Shooter.zip</b> file contained in this project to any destination folder on your hard drive.</indent>
+2.<indent=20px>Go to your SmartFoxServer 2X installation folder.</indent>
+3.<indent=20px>Under the <i>/SFS2X/extensions</i> folder, create a subfolder called <i><b>Shooter</b></i>.</indent>
+4.<indent=20px>Copy the content of folder <i>/Extension-Java/deploy</i> from the unzipped file to the server's <i>/SFS2X/extensions/Shooter</i> folder you just created.</indent>
+5.<indent=20px>Start SmartFoxServer 2X.</indent>
+6.<indent=20px>If not already active, enable the server's UDP listener in the AdminTool's <b>Server Configurator</b> module (requires a restart).</indent>
+7.<indent=20px>Open the <i>Login</i> scene contained in this project's <i>Scenes</i> folder.</indent>
+8.<indent=20px>Click on the <b>Play</b> button.</indent>
+This demo features a server-side Java Extension. Its source code is available under the <i>/Extension-Java/src</i> folder of the unzipped file.
